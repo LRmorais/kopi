@@ -1,0 +1,21 @@
+.Lista {
+    margin: 10px auto 0;
+    padding: 0 20px;
+    max-width: 700px;
+    text-transform: uppercase;
+    word-spacing: 5px;
+    text-align: center;
+}
+
+.Lista article{
+    background-color:  rgb(137, 231, 235);;
+    border-radius: 20px;
+    padding: 0px;
+}
+.opcoes {
+    padding: 0;
+    margin-bottom: 0;
+    margin-top: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+}

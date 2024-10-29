@@ -1,0 +1,15 @@
+1- Baixe os arquivos no formato .rar e extraia em qualquer lugar
+2- Instale o arquivo "Node"
+3- Instale o xampp
+4- copie a pasta app para o local C: xampp/htdocs
+5- instale o programa administrador
+6- na barra de buscas do windows digite cmd 
+dentro do cmd digite ipconfig e dê enter
+7- forneça o numero do ipv4 aos usuarios
+-----------------------------------------------------------------
+8- inicie a aplicação do xampp
+9- inicie a aplicação do servidor
+10- inicie a aplicação do administrador
+11- na aplicação do adm selecione um tempo
+12- selecione o gabarito das 10 questões
+13- selecione play ou pause

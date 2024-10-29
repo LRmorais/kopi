@@ -1,0 +1,14 @@
+.seletor{
+    color: #7159c1;
+    border-radius: 20px;
+    font-size: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.btnSeletor{
+    color: #7159c1;
+    border-radius: 20px;
+    background-color: rgb(116, 240, 111);
+    font-size: 20px;
+    margin-right: 10px;
+}

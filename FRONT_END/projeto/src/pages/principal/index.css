@@ -1,0 +1,29 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin: 10px;
+    overflow: hidden;
+}
+.cabeçalho{
+    background-color: rgb(137, 231, 235);
+    color: #7159c1;
+    font-size: 28px;
+    border-radius: 20px;
+}
+    .itens{
+        text-transform: uppercase;
+        list-style: none;
+    }
+    li{
+        display: inline-block;
+        color: #7159c1;
+        padding-left: 20px;
+    }
+    
+.graficos{
+    background-color: rgb(137, 231, 235);
+    position: relative;
+    border-radius: 20px;
+    margin-top: 20px;
+}
